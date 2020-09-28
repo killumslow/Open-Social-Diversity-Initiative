@@ -8,11 +8,11 @@ Responsible for:
 - project objectives and goals
 - project growth
 - oversee project decisions
-- ensure project is fullfilling community needs
+- ensure project is fulfilling community needs
 - delegation of authority as needed
 
 ## Committers
-Repsonsible for:
+Responsible for:
 
 - oversees subprojects or areas
 - organizes contributors
