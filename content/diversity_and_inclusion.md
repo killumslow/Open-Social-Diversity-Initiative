@@ -7,3 +7,6 @@
 # Our framework
 
 ## The four pillars
+- High level description of what the pillars are
+- Pillar dependencies
+- How the pillars interact
