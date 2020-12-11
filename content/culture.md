@@ -30,6 +30,18 @@ Tell HR
 
 Up to supervisor or manager to handle
 
+## Methods
+
+Value diversity 
+- rewards and recognition
+  create an award system for recongizing groups for their diversity and inclusion (competition)
+- seek opinions from different view points
+- discuss issues that matter
+  have a diverse voice (it shouldn't be a single person or a non diverse group talking about diversity events or matters)
+- point out lack of inclusion within groups
+  not to be forced but can be for different view points or education
+
+Protect diversity
 
 ## ways to establish and maintain organizational culture
 
