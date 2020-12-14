@@ -48,3 +48,6 @@ Protect diversity
 responsibilities of all employees
 
 responsibilities of management
+
+Next Section:
+[Recruitment](https://github.com/killumslow/Open-Social-Diversity-Initiative/blob/issue12/content/recruitment.md)

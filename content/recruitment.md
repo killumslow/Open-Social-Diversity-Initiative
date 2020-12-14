@@ -11,3 +11,6 @@ Methodologies
 employee engagement
 
 responsibilities of management
+
+Next Section:
+[Retention](https://github.com/killumslow/Open-Social-Diversity-Initiative/blob/issue12/content/retention.md)
