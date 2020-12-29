@@ -42,6 +42,11 @@ Value diversity
   not to be forced but can be for different view points or education
 
 Protect diversity
+- in house rules
+- identify internal issues
+- survey organization
+  open to employees
+  third party evaulation
 
 ## ways to establish and maintain organizational culture
 
