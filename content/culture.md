@@ -50,6 +50,12 @@ Protect diversity
 
 ## ways to establish and maintain organizational culture
 
+1. evalute current culture
+2. create transition plan to accomodate D&I initiatives
+3. transition
+4. post transition engagement
+5. create reevulation methods to identify problems and succsesses
+
 responsibilities of all employees
 
 responsibilities of management
