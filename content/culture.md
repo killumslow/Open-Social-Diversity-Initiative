@@ -2,9 +2,9 @@
 
 High level description of corporate culture what it means and its importance.
 
-focus on the primarily used corporate and organizational culture
-- Heiarchical
-  - position/senority based
+Focus on the primarily used corporate and organizational culture
+- Hiearchical
+  - position/seniority based
   - chain of command
   - distance between workers and managers
   - merit based reward system
