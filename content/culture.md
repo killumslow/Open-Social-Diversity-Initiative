@@ -16,14 +16,15 @@ What is valued?
   - ideas/innovation
   - work output
 How are issues resolved/handled?
-  - isolated and quiet
-  - free to broadcast concerns
+  - individual preference
+    - isolated and quiet
+    - free to broadcast concerns
   - protected from retaliation
   - are they tracked to identify large scale problems
   - just enough to be compliant and above board legally
 
 ## Management communication approaches that affect diversity and inclusion
-
+///expand sections
 Open door policies
 
 Tell HR
@@ -48,13 +49,14 @@ Protect diversity
   open to employees
   third party evaulation
 
-## ways to establish and maintain organizational culture
+## Ways to establish and maintain organizational culture
 
 1. evalute current culture
 2. create transition plan to accomodate D&I initiatives
-3. transition
+3. execute transition plan
 4. post transition engagement
-5. create reevulation methods to identify problems and succsesses
+5. create reevaluation methods to identify problems and succsesses
+6. feedback gap areas/outcomes into new transition plan and execution
 
 responsibilities of all employees
 
