@@ -13,4 +13,4 @@ employee engagement
 responsibilities of management
 
 Next Section:
-[Retention](https://github.com/killumslow/Open-Social-Diversity-Initiative/blob/release/content/retention.md)
+[Retention](https://killumslow.github.io/Open-Social-Diversity-Initiative/content/retention)

@@ -15,4 +15,4 @@
     Nature transitions between the pillars and how they should feed one another
 
 Next Section
-[Culture](https://github.com/killumslow/Open-Social-Diversity-Initiative/blob/release/content/culture.md)
+[Culture](https://killumslow.github.io/Open-Social-Diversity-Initiative/content/culture)

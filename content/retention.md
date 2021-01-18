@@ -12,4 +12,4 @@ responsibilities of all employees
 responsibilities of management
 
 Next Section:
-[Results](https://github.com/killumslow/Open-Social-Diversity-Initiative/blob/release/content/results.md)
+[Results](https://killumslow.github.io/Open-Social-Diversity-Initiative/content/results)
