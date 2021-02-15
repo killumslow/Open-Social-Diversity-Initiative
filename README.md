@@ -10,12 +10,13 @@ Our main focus is to make a reusable general purpose framework used to implement
 
 We hope to get feedback from the community on how we can improve the framework.
 
-Sections                                                                                
-[Overview](https://killumslow.github.io/Open-Social-Diversity-Initiative/content/diversity_and_inclusion) 
-[Culture](https://killumslow.github.io/Open-Social-Diversity-Initiative/content/culture)              
-[Recruitment](https://killumslow.github.io/Open-Social-Diversity-Initiative/content/recruitment)      
-[Retention](https://killumslow.github.io/Open-Social-Diversity-Initiative/content/retention)
-[Results](https://killumslow.github.io/Open-Social-Diversity-Initiative/content/results)
+Sections
+
+- [Overview](https://killumslow.github.io/Open-Social-Diversity-Initiative/content/diversity_and_inclusion)
+- [Culture](https://killumslow.github.io/Open-Social-Diversity-Initiative/content/culture)              
+- [Recruitment](https://killumslow.github.io/Open-Social-Diversity-Initiative/content/recruitment)      
+- [Retention](https://killumslow.github.io/Open-Social-Diversity-Initiative/content/retention)
+- [Results](https://killumslow.github.io/Open-Social-Diversity-Initiative/content/results)
 
 # How can you contribute?
 See the contribution guide.
