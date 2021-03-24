@@ -29,10 +29,21 @@ Those with power to act on issues are usually part of the uniform group to begin
 
 
 
-
 # Our framework
 
 ## The four pillars
+- Recruitment
+Efforts around attracting and securing diverse talent
+- job fairs
+- advertising
+- word of mouth
+Who is it directed towards
+Are you using strategies to target the right audience
+
+
+- Retention
+- Results
+
 - High level description of what the pillars are
     taken from pillar documents
 - Pillar dependencies
