@@ -34,26 +34,25 @@ Those with power to act on issues are usually part of the uniform group to begin
 # Our framework
 
 ## The four pillars
-- Culture
+#### Culture
  - safe place for all
  - heard voices
  - promote healthy conversation
 
-- Recruitment
-Efforts around attracting and securing diverse talent
+#### Recruitment
  - job fairs
  - advertising
  - word of mouth
  Who is it directed towards
  Are you using strategies to target the right audience
 
-- Retention
-Efforts around keeping the talent within the organization
+#### Retention
+
  - promotion (increased responsiblity and impact within organization)
  - pay raise
  - awards
 
-- Results
+#### Results
  - effectiveness of the previous pillars
  - standard data points and measurements
  - providing data to public (anon)
