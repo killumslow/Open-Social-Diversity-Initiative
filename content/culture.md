@@ -3,7 +3,7 @@
 High level description of corporate culture what it means and its importance.
 
 Focus on the primarily used corporate and organizational culture
-- Hiearchical
+- Hierarchical
   - position/seniority based
   - chain of command
   - distance between workers and managers
@@ -16,7 +16,7 @@ What is valued?
   - ideas/innovation
   - work output
 How are issues resolved/handled?
-  - individual preference
+  - Individual Preference
     - isolated and quiet
     - free to broadcast concerns
   - protected from retaliation
@@ -33,9 +33,9 @@ Up to supervisor or manager to handle
 
 ## Methods
 
-Value diversity 
+Value diversity
 - rewards and recognition
-  create an award system for recongizing groups for their diversity and inclusion (competition)
+  create an award system for recognizing groups for their diversity and inclusion (competition)
 - seek opinions from different view points
 - discuss issues that matter
   have a diverse voice (it shouldn't be a single person or a non diverse group talking about diversity events or matters)
@@ -47,15 +47,15 @@ Protect diversity
 - identify internal issues
 - survey organization
   open to employees
-  third party evaulation
+  third party evaluation
 
 ## Ways to establish and maintain organizational culture
 
-1. evalute current culture
-2. create transition plan to accomodate D&I initiatives
+1. evaluate current culture
+2. create transition plan to accommodate D&I initiatives
 3. execute transition plan
 4. post transition engagement
-5. create reevaluation methods to identify problems and succsesses
+5. create reevaluation methods to identify problems and successes
 6. feedback gap areas/outcomes into new transition plan and execution
 
 responsibilities of all employees

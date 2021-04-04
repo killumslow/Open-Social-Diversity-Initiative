@@ -1,12 +1,12 @@
 # Becoming a contributor
-As we work primarily in github you will find a list of areas that require attention in the issues section of repository. The core team will take ownership of these issues but anyone is able to submit a pull request to close an issue.
+As we work primarily in Github you will find a list of areas that require attention in the issues section of repository. The core team will take ownership of these issues but anyone is able to submit a pull request to close an issue.
 
 # Before contributing
 Please review the code of conduct to ensure that any work and communication that you submit follow our conduct policies.
 
 If you plan to contribute core content regarding diversity and inclusion please read the document or section that you plan to create or modify and get a sense of the flow and tone. Please do your best to maintain that in your contribution.
 
-Currently our project uses markdown files to organize and publish our content, please familiarize yourself with markdown before contributing content if possible. You can find helpful resourecs at [MarkDownGuide](https://www.markdownguide.org/). Please submit your content even if you have difficulty with markdown, it will just take the core team longer to incorporate your additions.
+Currently our project uses markdown files to organize and publish our content, please familiarize yourself with markdown before contributing content if possible. You can find helpful resources at [MarkDownGuide](https://www.markdownguide.org/). Please submit your content even if you have difficulty with markdown, it will just take the core team longer to incorporate your additions.
 
 Do not submit anything that you do not own or is not available to use freely.
 
