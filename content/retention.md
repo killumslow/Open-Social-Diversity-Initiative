@@ -1,6 +1,11 @@
 # Retention
 
-definition
+Efforts around retaining employees and reducing employee turnover.
+
+Why it's important
+- retaining knowledge in the company
+- mentorship of others
+- known/proven personalities and capabilities
 
 ## implementation methods that affect diversity and inclusion
 
@@ -9,14 +14,20 @@ Methodologies
 Recognition
   pay
     ensuring equal pay
-    ensuring equal pay raises
+    ensuring equal pay raises in relation to effort
   promotion
+    ensuring everyone has the opportunity to get promoted to all positions
   title
+    responsibilities
+      ensuring that these are in line responsibilities should be in line with job title and pay
   accolades
   awards
 
 Inclusion
   incorporation of other cultures into the organizational/corporate culture
+    parties/celebrations
+    holiday recognition
+    diverse team building exercises
   employees should see their impact
   should see efforts presence across all areas and levels in the company (shows possibility of promotion and/or lateral moves)
 
